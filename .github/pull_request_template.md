@@ -5,8 +5,9 @@ Text inside these comment blocks is guidance and disappears when the PR is rende
 -->
 
 ## Linear
-<!-- The issue this PR closes. Required: the check fails without a 1915-NNN id in the title or body. -->
-1915-
+<!-- The issue this PR closes. Required: the check fails without an id in the title or body.
+     Any team's prefix works, uppercase: 1915-NNN, ENG-NNN or ANA-NNN. -->
+1915- / ENG- / ANA-
 
 ## Summary
 <!-- Two or three sentences. What changed and why, for a teammate who did not watch you work. -->
