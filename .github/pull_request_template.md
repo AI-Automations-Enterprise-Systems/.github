@@ -5,8 +5,8 @@ Text inside these comment blocks is guidance and disappears when the PR is rende
 -->
 
 ## Linear
-<!-- The issue this PR closes. Required: the check fails without a 1915-NNN id in the title or body. -->
-1915-
+<!-- The issue this PR closes. Required: the check fails without an ENG-NNN (or ANA-NNN) id in the title or body. -->
+ENG-
 
 ## Summary
 <!-- Two or three sentences. What changed and why, for a teammate who did not watch you work. -->
