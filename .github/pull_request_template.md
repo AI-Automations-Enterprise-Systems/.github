@@ -5,7 +5,7 @@ Text inside these comment blocks is guidance and disappears when the PR is rende
 -->
 
 ## Linear
-<!-- The issue this PR closes. Required: the check fails without an ENG-NNN (or ANA-NNN) id in the title or body.
+<!-- The issue this PR closes. Required: the check fails without an ENG-NNN (or ANA-NNN, HRC-NNN, ZAP-NNN) id in the title or body.
      Uppercase only — a lowercase branch name like yourname/eng-42-fix-thing does not count as an id. -->
 ENG-
 
